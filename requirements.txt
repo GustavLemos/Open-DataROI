@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+plotly
+requests
+pytest
+fpdf
+kaleido
