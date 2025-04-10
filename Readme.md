@@ -7,7 +7,9 @@ Open-source tool to quickly estimate the ROI of data initiatives based on invest
 
 
 
-Uploading unknown_2025.04.10-13.32_1_clip_1.mp4…
+
+
+https://github.com/user-attachments/assets/f54cb7b7-a95e-4963-a0f7-d327a2516b4c
 
 
 ---
